@@ -20,10 +20,14 @@
 
 >> [Others](./Others/index.md)
 
->> [Front](./Front/index.md)
+>> [Front Programming](./Front/index.md)
 
->> [DistributeSystem](./DistributeSystem/index.md)
+>> [Distribute System](./DistributeSystem/index.md)
+
 
 ## Tool
 
 >> [Editor](./Editor/index.md)
+
+## Thinking
+>> [Think In Programming](./TIP/ThinkInProgramming.md)
