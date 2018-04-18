@@ -24,6 +24,8 @@
 
 >> [Distribute System](./DistributeSystem/index.md)
 
+>> [Meachine Learn](./MachineLearn/index.md)
+
 
 ## Tool
 
