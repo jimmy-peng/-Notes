@@ -26,6 +26,7 @@
 
 >> [Meachine Learn](./MachineLearn/index.md)
 
+>> [HowToPlanYourGoal](./Plan/)
 
 ## Tool
 
@@ -33,3 +34,16 @@
 
 ## Thinking
 >> [Think In Programming](./TIP/ThinkInProgramming.md)
+
+## English
+* in depth 深入   
+* resioning 推断
+* aggretive 聚合
+* composition 组合
+* hands-on 实践
+* learning by doing
+* mini-firewall
+* Mini
+
+## learn resource
+[7-unique-ways-practice-coding-skills](https://www.makeuseof.com/tag/7-unique-ways-practice-coding-skills/)
