@@ -26,6 +26,8 @@
 
 >> [Meachine Learn](./MachineLearn/index.md)
 
+>> [Cryptography](./Cryptography/index.md)
+
 >> [HowToPlanYourGoal](./Plan/)
 
 ## Tool
@@ -44,6 +46,7 @@
 * learning by doing
 * mini-firewall
 * Mini
+* error-prone 易出错的
 
 ## learn resource
 [7-unique-ways-practice-coding-skills](https://www.makeuseof.com/tag/7-unique-ways-practice-coding-skills/)
